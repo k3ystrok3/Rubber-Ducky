@@ -1,2 +1,2 @@
 # Rubber-Ducky
-Some simple Ducky Scripts for learning Ducky Script
+Just a few Scripts for learning this simple Programming language
